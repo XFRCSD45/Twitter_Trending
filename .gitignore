@@ -1,0 +1,7 @@
+test.py
+venv/
+env/
+.venv/
+.env
+chromedriver.exe
+
